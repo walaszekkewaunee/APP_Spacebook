@@ -65,8 +65,4 @@
   },
   "main": ".eleventy.js"
 }
-  {
-    "overrides": {
-      "html-minifier": "npm:html-minifier-next@latest"
-    }
-  }
+
